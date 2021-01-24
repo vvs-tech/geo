@@ -1,0 +1,5 @@
+[warn] scala-library-2.12.8-sources.jar no longer exists at C:\Users\vvs\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.12.8\scala-library-2.12.8-sources.jar
+[debug] not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/C:/Programming/My_Project/mail_spark_3/"), "mail_spark_3")...
+[debug] Done updating ProjectRef(uri("file:/C:/Programming/My_Project/mail_spark_3/"), "mail_spark_3")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
